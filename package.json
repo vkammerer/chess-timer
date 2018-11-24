@@ -1,0 +1,26 @@
+{
+  "name": "chess-timer",
+  "version": "0.0.1",
+  "description": "A turn based timer in javascript",
+  "main": "src/chessTimer.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "build": "cp src/chessTimer.js docs/chessTimer.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vkammerer/chess-timer.git"
+  },
+  "keywords": [
+    "chess",
+    "timer"
+  ],
+  "author": "Vincent Kammerer <vkammerer@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vkammerer/chess-timer/issues"
+  },
+  "homepage": "https://github.com/vkammerer/chess-timer#readme"
+}
